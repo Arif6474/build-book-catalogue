@@ -1,8 +1,8 @@
 # Build a Book Catallog
 
-### Github Repository Link: https://github.com/ArifulIslamShuvo/Build-a-Book-Catallog
+### Github Repository Link:
 
-### Deployed Live Link: 
+### Live Link: 
 
 # 
 ## Application Routes:
